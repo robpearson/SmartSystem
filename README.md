@@ -1,0 +1,2 @@
+# SmartSystem
+Simple Java application
